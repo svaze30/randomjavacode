@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_3_Polymorphism/_3_Polymorphism.iml" filepath="$PROJECT_DIR$/_3_Polymorphism/_3_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_Strings/_4_Strings.iml" filepath="$PROJECT_DIR$/_4_Strings/_4_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
