@@ -9,9 +9,15 @@ class Parent {
     String fatherName;
 
     Parent () {
+<<<<<<< HEAD
         familyName = "vaze";
         fatherName = "ganesh";
         motherName = "vanita";
+=======
+        familyName = "somani";
+        fatherName = "harish";
+        motherName = "radhika";
+>>>>>>> origin/master
     }
 
     Parent (String familyName, String motherName, String fatherName) {
